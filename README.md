@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhay Jagannath</h1>
-<h3 align="center">I work in Backend Web and Deep Learning</h3>
+<h3 align="center">I work as a Backend Developer and Deep Learning engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-juggernaut&label=Profile%20views&color=0e75b6&style=flat" alt="the-juggernaut" /> </p>
 
 - 📫 How to reach me **jagannathabhay@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W1u_FTq_LuQaTq2DeIDqpd_zQuFo0Gjj/view?usp=sharing](https://drive.google.com/file/d/1W1u_FTq_LuQaTq2DeIDqpd_zQuFo0Gjj/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1W1u_FTq_LuQaTq2DeIDqpd_zQuFo0Gjj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
